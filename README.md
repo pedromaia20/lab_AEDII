@@ -1,3 +1,3 @@
 # lab_AEDII
-pedro
-fernando
+* pedro
+* fernando
